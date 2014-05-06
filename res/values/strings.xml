@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CircleMemory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Start</string>
+	<string name="gameover">Game Over</string>
+	<string name="score">Score</string>
+	<string name="restart">Return</string>
+	<string name="title">Circle Memory</string>
+	<string name="next">Click to next level</string>
+</resources>
