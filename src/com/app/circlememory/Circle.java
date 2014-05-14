@@ -41,13 +41,11 @@ public class Circle implements Parcelable{
 
 	@Override
 	public int describeContents() {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
 	public void writeToParcel(Parcel dest, int flags) {
-		// TODO Auto-generated method stub
 		dest.writeFloat(x);
 		dest.writeFloat(y);
 		dest.writeFloat(radius);	
@@ -66,7 +64,6 @@ public class Circle implements Parcelable{
 
 		@Override
 		public Circle[] newArray(int size) {
-			// TODO Auto-generated method stub
 			return new Circle[size];
 		}
 		

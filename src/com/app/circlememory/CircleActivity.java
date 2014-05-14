@@ -35,7 +35,6 @@ public class CircleActivity extends Activity {
 		@SuppressLint("DrawAllocation")
 		@Override
 		protected void onDraw(Canvas canvas) {
-			// TODO Auto-generated method stub
 			super.onDraw(canvas);
 			// Log.i("circle", "canvas width=" + canvas.getWidth() + ", height="
 			// + canvas.getHeight());
